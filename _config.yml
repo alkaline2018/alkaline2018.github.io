@@ -213,7 +213,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  # - jekyll-archives
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -222,6 +222,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # Archives
 #  Type
